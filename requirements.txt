@@ -1,0 +1,5 @@
+# Watermark Studio Dependencies
+# Standard desktop application requirements
+
+Pillow>=10.2.0
+
